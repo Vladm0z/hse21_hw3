@@ -1,7 +1,7 @@
 # hse21_hw3  
 
 # Часть 1  
-Ссылка на коллаб - https://colab.research.google.com/drive/14lzDVSKQfnJOXECxgvL4kjQWa07ylIyc?usp=sharing
+![Ссылка на Google Colab для первой части](https://colab.research.google.com/drive/14lzDVSKQfnJOXECxgvL4kjQWa07ylIyc?usp=sharing)
 
 ## Проверка качества чтений из fastQC: сравнительная статистика из multiQC
 ![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/fastqc_general_statistics.jpg)
@@ -27,8 +27,10 @@
 ## ALL.counts содержит в себе все чтения  
 ![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/img2.png)
 
+
 # Часть 2. Анализ с помощью DESeq2  
-Ссылка на коллаб - https://colab.research.google.com/drive/1g4FF3g77jHX2aIgrExYfrjP7h5bX8G5d?usp=sharing
+![Ссылка на Google Colab для второй части](https://colab.research.google.com/drive/1g4FF3g77jHX2aIgrExYfrjP7h5bX8G5d?usp=sharing)
+
 ## Heatmap зависимости экспрессии генов контрольных и репрограммированных образцов
 ![image](https://github.com/Vladm0z/hse21_hw3/blob/main/images/heatmap_1.png)
 ## MA-plot, показывающий Log2FC для генов  
